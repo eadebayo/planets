@@ -2,4 +2,8 @@ mars is cold and dry, but everything is red!
 
 The two moons may be a problem for Wolfman
 but the mummy will appreciate the lack of humidity
+<<<<<<< HEAD
 some new lines.
+=======
+ some new shit
+>>>>>>> b56571733f3d6791da95adb6b74deeb9afd9b9ed
